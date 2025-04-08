@@ -12,6 +12,7 @@
 4) streamlit
 5) dotenv
 6) google-api-python-client
+7) accelerate
 
 Для запуска локально потребуется API-KEY для youtube, который надо будет указать в файле .env
 
